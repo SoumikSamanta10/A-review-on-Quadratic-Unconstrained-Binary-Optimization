@@ -12,9 +12,9 @@ The Quadratic Unconstrained Binary Optimization (QUBO) is well-known class of Co
  
 
 ## **Key Results:**
-•)	Explored the connection and equivalence of these QUBO problems with the Ising model.
-•)	Discussed Adiabatic Quantum Computing and Quantum Annealing to develop heuristic solutions and the difference these systems from the classical approach.
-•)	Simulated a set of three problems - Maximum Cut, Minimum Vertex Cover and Travelling Salesman Problem and solved them with the help of D-Wave systems’ Quantum Annealers.
+1)	Explored the connection and equivalence of these QUBO problems with the Ising model.
+2)	Discussed Adiabatic Quantum Computing and Quantum Annealing to develop heuristic solutions and the difference these systems from the classical approach.
+3)	Simulated a set of three problems - Maximum Cut, Minimum Vertex Cover and Travelling Salesman Problem and solved them with the help of D-Wave systems’ Quantum Annealers.
 
 
 ## **Code Repo Descriptions:**
